@@ -1,7 +1,7 @@
 # Mini-Rt
 Very simple ray tracing library
 
-![raytracing result](doc/raytracing.jpg)
+![raytracing result](mini-rt-master/doc/raytracing.jpg)
 
 ## Features
 - Objects: spheres
